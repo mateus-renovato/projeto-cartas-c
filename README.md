@@ -20,4 +20,4 @@ Simular cartas com atributos e realizar a comparação entre elas, utilizando a 
 ## 📚 Aprendizados
 - Estruturas de dados
 - Comparações condicionais
-- Lógica de programação em C
+- Lógica de programação em C 
